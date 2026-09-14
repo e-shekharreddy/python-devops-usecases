@@ -24,3 +24,5 @@ if __name__ == "__main__":
     stdin, stdout, stderr = client.exec_command('sudo init 0')
     print(stdout.read().decode())
     client.close()
+
+    
