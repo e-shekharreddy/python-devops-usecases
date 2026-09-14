@@ -22,6 +22,7 @@ k8s-ingress
 k8s-init
 k8s-network
 python-basics
+python-devops-usecases
 roboshop-docker
 roboshop-documentation
 roboshop-helm
